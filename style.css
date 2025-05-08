@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+.box-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 180px;
+    width: 180px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 1rem;
+}
+.color1{
+    background-color: rgb(64, 136, 231);
+}
+.color2{
+    background-color: rgb(215, 247, 101);
+}
+.color3{
+    background-color: rgb(147, 103, 234);
+}
+.color4{
+    background-color: rgb(253, 101, 213);
+}
+.white{
+    background-color: #ffffff;
+}
+.green{
+    background-color: rgb(52, 202, 52);
+}
